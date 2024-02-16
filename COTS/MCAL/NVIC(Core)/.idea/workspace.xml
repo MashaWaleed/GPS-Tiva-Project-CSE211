@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="15635b74-d6c3-4293-9b0b-08d829810d3b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../Drivers/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../References/HW Components/Bluetooth Module/Bluetooth Module HC-05 Pinout.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../References/HW Components/Bluetooth Module/Bluetooth Module HC-05 Pinout.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../References/HW Components/Bluetooth Module/HC-05 Datasheet.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../References/HW Components/GPS Module/NEO-M8.PDF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../References/HW Components/LCD/Character LCD Datasheet.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../References/HW Components/LCD/Character LCD Datasheet_Modified By Mahmoud Abdelraouf.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../References/HW Components/LCD/HD44780.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../References/Slides/All Slides '23.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../References/Tiva C Series TM4C123G LaunchPad Evaluation Kit/ARM Microprocessor Sources/Arm Cortexm4 TRM.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../References/Tiva C Series TM4C123G LaunchPad Evaluation Kit/ARM Microprocessor Sources/Cortex M4 Generic User Guide.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../References/Tiva C Series TM4C123G LaunchPad Evaluation Kit/ARM Microprocessor Sources/Instruction Set/Arm-instruction set.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../References/Tiva C Series TM4C123G LaunchPad Evaluation Kit/ARM Microprocessor Sources/Instruction Set/Arm_Architecture_Reference_Manual.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../References/Tiva C Series TM4C123G LaunchPad Evaluation Kit/ARM Microprocessor Sources/Instruction Set/CortexM_instruction set.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../References/Tiva C Series TM4C123G LaunchPad Evaluation Kit/ARM Microprocessor Sources/Instruction Set/Thumb-instruction set.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../References/Tiva C Series TM4C123G LaunchPad Evaluation Kit/MicroController Sources/Getting Started with TivaWare™ for C Series.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../References/Tiva C Series TM4C123G LaunchPad Evaluation Kit/MicroController Sources/Tiva C Series TM4C123G LaunchPad Evaluation Kit (Rev. A).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../References/Tiva C Series TM4C123G LaunchPad Evaluation Kit/MicroController Sources/Tiva C Series TM4C123G LaunchPad Evaluation Kit User's Manual.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../References/Tiva C Series TM4C123G LaunchPad Evaluation Kit/MicroController Sources/TivaWare™ Peripheral Driver Library for C Series User's Guide.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../References/Tiva C Series TM4C123G LaunchPad Evaluation Kit/MicroController Sources/Tiva™ TM4C123GH6PM Microcontroller.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../TeamMembers.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Working Space/.gitignore" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="2.2" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2cQPQcdh959Sy53LbJv2TQMNUuj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15635b74-d6c3-4293-9b0b-08d829810d3b" name="Changes" comment="" />
+      <created>1708040814332</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708040814332</updated>
+      <workItem from="1708040815534" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
